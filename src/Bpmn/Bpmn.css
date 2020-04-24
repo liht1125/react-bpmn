@@ -35,12 +35,15 @@ ul{
 	border: 1px solid #ddd;
 	border-radius: 4px;
 }
-li:first-child{
+li:first-child {
 	border: none;
 }
-li{
+li {
 	display: inline-block;
 	border-left: 1px solid #ddd;
-	padding: 2px 4px;
+	padding: 4px;
 	cursor: pointer;
+	color:#333;
+	font-size: 14px;
+
 }
