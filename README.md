@@ -1,7 +1,7 @@
 ### 项目描述
 
 react+bpmn.js——汉化实现在线流程图
-
+![avatar](https://github.com/liht1125/react-bpmn/blob/master/src/img/bpmn-min.jpg)
 
 ### 安装依赖包
 
