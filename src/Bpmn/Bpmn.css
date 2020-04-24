@@ -1,0 +1,46 @@
+
+.containers {
+	background-color: #fff;
+	width: 100%;
+	height: 100vh;
+	position: relative;
+}
+.canvas {
+	width: 100%;
+	height: 100%;
+}
+.panel {
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 300px;
+	height: 100%;
+	overflow: auto;
+}
+.buttons {
+	position: absolute;
+	left: 140px;
+	top: 20px;
+}
+.openFile {
+	display: none;
+}
+
+ul,li{
+	list-style: none;
+	padding: 0;
+	margin:0;
+}
+ul{
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+li:first-child{
+	border: none;
+}
+li{
+	display: inline-block;
+	border-left: 1px solid #ddd;
+	padding: 2px 4px;
+	cursor: pointer;
+}
